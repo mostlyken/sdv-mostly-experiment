@@ -1,5 +1,3 @@
 other-notebooks/
 venv
-/.venv
 .DS_Store
-venv/bin
